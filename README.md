@@ -26,3 +26,5 @@ Yes, this isn't ideal, but this is how it has to be for now. Will be N/A when I 
         ```
 
 There's probably an easier way to do this, but my goal here wasn't to make it perfect, but to practice some backend stuff. In future iterations, I'll be working on making this more streamlined
+
+Once this is all done, just run `npm intall` then `npm start` to run the backend. Make sure to run this first before running the frontend (if you're trying to run the whole app)
